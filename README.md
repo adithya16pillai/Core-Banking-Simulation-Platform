@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # BankBoxed - Core Banking Simulation Platform
 
 A sandboxed core banking simulation platform for testing loan issuance, deposit tracking, and interest calculation APIs.
@@ -92,3 +93,7 @@ pytest
 ## License
 
 MIT License 
+=======
+# Core-Banking-Simulation-Platform
+A sandboxed core banking simulation platform to test loan issuance, deposit tracking, and interest calculation APIs
+>>>>>>> 23c4c25e82c568e04a8a994f54972877436e2f20
